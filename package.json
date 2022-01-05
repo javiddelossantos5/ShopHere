@@ -1,0 +1,22 @@
+{
+  "name": "pro-shop",
+  "version": "1.0.0",
+  "description": "MERN Stack Shopping Cart App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiddelossantos5/ShopHere.git"
+  },
+  "author": "Javid De Los Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiddelossantos5/ShopHere/issues"
+  },
+  "homepage": "https://github.com/javiddelossantos5/ShopHere#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
